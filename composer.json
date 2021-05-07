@@ -1,0 +1,15 @@
+{
+    "name": "masud/pack1",
+    "description": "test pack",
+    "type": "library",
+    "authors": [
+        {
+            "name": "masud",
+            "email": "masud@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+     "monolog/monolog": "1.0.*"
+    }
+}
